@@ -2,22 +2,26 @@ body{background-color: rgb(1, 6, 22);}
 h1{color:snow;}
 h1{text-align: center;}
 h1{width: 100px;}
-#imag1 {width: 700px;}
-#imag1 {right: 500%;}
+#imag1 {width: 500px;}
+#imag1 {left: 50%;}
+#imag1 {height: 300px;}
 h2{color:snow}
 h2{text-align: center;}
 h2{width: 100px;}
-#imag2 {width: 700px;}
+#imag2 {width: 500px;}
+#imag2 {height: 300px;}
 h3{color:snow}
 h3{text-align: center;}
 h3{width: 100px;}
-#imag3 {width: 700px;}
+#imag3 {width: 500px;}
+#imag3 {height: 300px;}
 h4{color:snow}
 h4{text-align: center;}
 h4{width: 100px;}
-#imag4 {width: 700px;}
+#imag4 {width: 500px;}
+#imag4 {height: 300px;}
 h5{color:snow}
 h5{text-align: center;}
 h5 {width: 100px;}
-#imag5 {width: 300px;}
+#imag5 {width: 500px;}
 #imag5 {height: 300px;}
