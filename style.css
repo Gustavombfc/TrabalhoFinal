@@ -1,8 +1,9 @@
-body{background-color: rgb(3, 9, 40);}
+body{background-color: rgb(1, 6, 22);}
 h1{color:snow;}
 h1{text-align: center;}
 h1{width: 100px;}
 #imag1 {width: 700px;}
+#imag1 {right: 500%;}
 h2{color:snow}
 h2{text-align: center;}
 h2{width: 100px;}
@@ -19,4 +20,3 @@ h5{color:snow}
 h5{text-align: center;}
 h5 {width: 100px;}
 #imag5 {width: 700px;}
-#imag5 {image-resolution: 1040;}
