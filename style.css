@@ -10,11 +10,13 @@ h2{text-align: center;}
 h2{width: 100px;}
 #imag2 {width: 500px;}
 #imag2 {height: 300px;}
+#imag2 {ruby-align: center;}
 h3{color:snow}
 h3{text-align: center;}
 h3{width: 100px;}
 #imag3 {width: 500px;}
 #imag3 {height: 300px;}
+#imag3 {right: 50%;}
 h4{color:snow}
 h4{text-align: center;}
 h4{width: 100px;}
