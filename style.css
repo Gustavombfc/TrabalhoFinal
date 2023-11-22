@@ -16,11 +16,11 @@ h5 {color: snow;}
 h5 {font-size: 1.5em;}
 h6 {font-size: 1.0em;}
 h6 {color: snow;}
-#imag1 {margin-right: 35%;}
-#imag2 {margin-right: 35%;}
-#imag3 {margin-right: 35%;}
-#imag4 {margin-right: 35%;}
-#imag5 {margin-right: 35%;}
+#imag1 {margin-left: 35%;}
+#imag2 {margin-left: 35%;}
+#imag3 {margin-left: 35%;}
+#imag4 {margin-left: 35%;}
+#imag5 {margin-left: 35%;}
 #imag1 {width: 600px;}
 #imag1 {height: 337px;}
 #imag2 {width: 600px;} 
