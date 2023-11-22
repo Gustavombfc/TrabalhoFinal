@@ -1,2 +1,1 @@
-alert("Aceite para prosseguir para a pagina");
-
+alert("Aceite para prosseguir para a pagina")
