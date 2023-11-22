@@ -1,1 +1,1 @@
-alert("Aceite para prosseguir para a pagina")
+alert("Todas as Imagens quando clicadas redirecinaram para um VIDEO")
