@@ -2,37 +2,37 @@ body{background-color: rgb(1, 5, 21);}
 h1{text-align: center;}
 h1{font: bold;}
 h1 {color: snow;}
-h1 {font-size: 1.5em;}
+h1 {font-size: 2em;}
 h2{text-align: center;}
 h2 {color: snow;}
 h2{font: bold;}
-h2 {font-size: 1.5em;}
+h2 {font-size: 2em;}
 h3{text-align: center;}
 h3 {color: snow;}
-h3 {font-size: 1.5em;}
+h3 {font-size: 2em;}
 h3{font: bold;}
 h4{text-align: center;}
 h4 {color: snow;}
-h4 {font-size: 1.5em;}
+h4 {font-size: 2em;}
 h4{font: bold;}
 h5{text-align: center;}
 h5 {color: snow;}
-h5 {font-size: 1.5em;}
+h5 {font-size: 2em;}
 h5{font: bold;}
-h6 {font-size: 1.0em;}
+h6 {font-size: 1.5em;}
 h6 {color: snow;}
 #imag1 {margin-left: 29%;}
 #imag2 {margin-left: 29%;}
 #imag3 {margin-left: 29%;}
 #imag4 {margin-left: 29%;}
 #imag5 {margin-left: 29%;}
-#imag1 {width: 600px;}
-#imag1 {height: 337px;}
-#imag2 {width: 600px;} 
-#imag2 {height: 337px;}
-#imag3 {width: 600px;}
-#imag3 {height: 337px;} 
-#imag4 {width: 600px;}
-#imag4 {height: 337px;}
-#imag5 {width: 600px;}
-#imag5 {height: 337px;}
+#imag1 {width: 900px;}
+#imag1 {height: 470px;}
+#imag2 {width: 900px;} 
+#imag2 {height: 470px;}
+#imag3 {width: 900px;}
+#imag3 {height: 470px;} 
+#imag4 {width: 900px;}
+#imag4 {height: 470px;}
+#imag5 {width: 900px;}
+#imag5 {height: 470px;}
